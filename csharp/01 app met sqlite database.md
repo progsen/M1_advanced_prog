@@ -39,10 +39,12 @@ Met het systeem moet je het volgende kunnen:
 
 ##### technisch
 - gebruik een C# console programma om de voorraad in een SQLITE database bij te houden
-- maak een aparte git repository aan voor dit project, geef dit een goede naam waar minimaal de naam van het vak in voorkomt:
-    - M1Prog_cs
 - vang parse fouten netjes af, kijk ook naar de fout afhandelijk van c#
 
+## git
+- maak een aparte git repository aan voor dit project, geef dit een goede naam waar minimaal de naam van het vak in voorkomt:
+    - M1Prog_cs
+    
 ## opleveren
 
 - je levert een werkend programma op

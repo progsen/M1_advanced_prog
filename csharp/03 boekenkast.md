@@ -13,11 +13,15 @@ Een lokale bibliotheek wil een digitaal systeem om boeken en genres bij te houde
     - een c# website maken
     - een dynamische pagina maken op basis van een database
     - een connectie leggen met de database
-    - de database runtime laten opbouwen
     
-    - DELETE, SELECT met WHERE
+    - SELECT met WHERE
     - JOIN gebruiken
     - Tabelstructuur ontwerpen
+
+- nieuwe skills:
+    - de database runtime laten opbouwen
+    - login maken
+    - DELETE, 
 
 
 ##### technisch
@@ -26,9 +30,12 @@ Een lokale bibliotheek wil een digitaal systeem om boeken en genres bij te houde
     - *Maak ook een ERD (Entity Relationship Diagram) voor deze opdracht.*
     - zorg dat je de relatie tussen de tabellen aanmaakt
 - Voeg functionaliteit toe voor zoeken en verwijderen
+- maak een database context waar al je database code staat
+
+## git
 - maak een aparte git repository aan voor dit project, geef dit een goede naam waar minimaal de naam van het vak in voorkomt:
     - M1Prog_cs
-
+    
 ## opleveren
 
 - je levert een werkend programma op

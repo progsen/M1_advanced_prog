@@ -35,5 +35,8 @@ De berichten worden via TCP verstuurd, en zijn versleuteld met een goede cryptog
 - je mag dit voor nu alleen lokaal testen (je houdt het verkeer op je eigen laptop)
 - gebruik een console programma
 - alleen tekst berichten versturen is prima
+
+## git
 - maak een aparte git repository aan voor dit project, geef dit een goede naam waar minimaal de naam van het vak in voorkomt:
     - M1Prog_cs
+    
