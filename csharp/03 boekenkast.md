@@ -20,7 +20,6 @@ Een lokale bibliotheek wil een digitaal systeem om boeken en genres bij te houde
 
 - nieuwe skills:
     - de database runtime laten opbouwen
-    - login maken
     - DELETE, 
 
 
