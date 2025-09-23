@@ -33,6 +33,7 @@ Verder wil de klant een detail pagina voor elke pizza
     > gebruik de M1Versnellers folder onder files
 - maak een class die een Model is van 1 rij in de excel
 - Lees de excel in en zet om naar een array van modellen
+- zorg dat je docker container stack ook pizza in de naam heeft, maar hou de eerdere benaming 
 
 ## git
 - maak een aparte git repository aan voor dit project, geef dit een goede naam waar minimaal de naam van het vak in voorkomt:
