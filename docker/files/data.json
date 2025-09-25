@@ -1,0 +1,12 @@
+{ 
+    
+ "homepage":
+ {
+    "headertext": "Hello world!",
+    "paragraph" : "Welcome to our hello world api example, this file has been fetched from a api on a different server! All of this is running inside a docker container stack",
+    "linkText":"Want to try this yourself? here are some helpfull links",
+    "links":["https://www.w3schools.com/js/js_json.asp","https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch","https://docs.docker.com/compose/"]
+ }
+
+
+}
