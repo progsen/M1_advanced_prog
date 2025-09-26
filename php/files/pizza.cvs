@@ -1,11 +1,11 @@
-Name;Description;Price;Commercial Description
-Margherita;Classic pizza with tomato sauce, mozzarella, and fresh basil.;899;A timeless Italian favorite�fresh mozzarella, tangy tomato sauce, and aromatic basil on a golden crust. Simplicity at its most delicious!
-Pepperoni;Tomato sauce, mozzarella, and spicy pepperoni slices.;1049;Our best-selling classic! Zesty pepperoni atop bubbling cheese and rich tomato sauce�every bite is a crowd-pleaser.
-Quattro Formaggi;Mozzarella, gorgonzola, parmesan, and fontina cheeses.;1199;Cheese lovers rejoice! Four premium cheeses melt together for a creamy, decadent experience you�ll crave again and again.
-Hawaiian;Tomato sauce, mozzarella, ham, and sweet pineapple.;1099;A tropical twist! Juicy pineapple and savory ham combine for a sweet and salty sensation that transports you to paradise.
-Vegetarian;Tomato sauce, mozzarella, bell peppers, onions, mushrooms, and olives.;999;Garden-fresh veggies on a bed of gooey cheese�colorful, healthy, and bursting with flavor in every slice.
-BBQ Chicken;BBQ sauce, mozzarella, grilled chicken, red onions, and cilantro.;1249;Smoky BBQ sauce, tender chicken, and a hint of cilantro�this pizza is a bold, mouthwatering masterpiece.
-Meat Lovers;Tomato sauce, mozzarella, pepperoni, sausage, ham, and bacon.;1349;For the carnivore in you! A hearty medley of premium meats on a cheesy, satisfying base�every bite is a feast.
-Capricciosa;Tomato sauce, mozzarella, ham, mushrooms, artichokes, and olives.;1149;An Italian classic loaded with savory ham, earthy mushrooms, and tender artichokes�every slice is a celebration.
-Diavola;Tomato sauce, mozzarella, spicy salami, and chili flakes.;1199;Turn up the heat! Spicy salami and chili flakes deliver a fiery kick for those who like it hot.
-Truffle Mushroom;Cream sauce, mozzarella, wild mushrooms, and truffle oil.;1399;Indulge in luxury�earthy wild mushrooms and fragrant truffle oil on a creamy, cheesy base. Pure gourmet delight!
+Name;Description;Price;Commercial Description;Image
+Margherita;Classic pizza with tomato sauce, mozzarella, and fresh basil.;8.99;A timeless Italian favorite fresh mozzarella, tangy tomato sauce, and aromatic basil on a golden crust. Simplicity at its most delicious!;assets/img/pizza/pizza1.png
+Pepperoni;Tomato sauce, mozzarella, and spicy pepperoni slices.;10.49;Our best-selling classic! Zesty pepperoni atop bubbling cheese and rich tomato sauce every bite is a crowd-pleaser.;assets/img/pizza/pizza2.png
+Quattro Formaggi;Mozzarella, gorgonzola, parmesan, and fontina cheeses.;11.99;Cheese lovers rejoice! Four premium cheeses melt together for a creamy, decadent experience you ll crave again and again.;assets/img/pizza/pizza3.png
+Hawaiian;Tomato sauce, mozzarella, ham, and sweet pineapple.;10.99;A tropical twist! Juicy pineapple and savory ham combine for a sweet and salty sensation that transports you to paradise.;assets/img/pizza/pizza4.png
+Vegetarian;Tomato sauce, mozzarella, bell peppers, onions, mushrooms, and olives.;9.99;Garden-fresh veggies on a bed of gooey cheese colorful, healthy, and bursting with flavor in every slice.;assets/img/pizza/pizza5.png
+BBQ Chicken;BBQ sauce, mozzarella, grilled chicken, red onions, and cilantro.;12.49;Smoky BBQ sauce, tender chicken, and a hint of cilantro this pizza is a bold, mouthwatering masterpiece.;assets/img/pizza/pizza6.png
+Meat Lovers;Tomato sauce, mozzarella, pepperoni, sausage, ham, and bacon.;13.49;For the carnivore in you! A hearty medley of premium meats on a cheesy, satisfying base every bite is a feast.;assets/img/pizza/pizza7.png
+Capricciosa;Tomato sauce, mozzarella, ham, mushrooms, artichokes, and olives.;11.49;An Italian classic loaded with savory ham, earthy mushrooms, and tender artichokes every slice is a celebration.;assets/img/pizza/pizza8.png
+Diavola;Tomato sauce, mozzarella, spicy salami, and chili flakes.;11.99;Turn up the heat! Spicy salami and chili flakes deliver a fiery kick for those who like it hot.;assets/img/pizza/pizza9.png
+Truffle Mushroom;Cream sauce, mozzarella, wild mushrooms, and truffle oil.;13.99;Indulge in luxury earthy wild mushrooms and fragrant truffle oil on a creamy, cheesy base. Pure gourmet delight!;assets/img/pizza/pizza10.png
