@@ -49,5 +49,3 @@ De klant wil dit tonen:
 ## opleveren
 
 - je levert een werkend programma op
-- je maakt een presentatie van je product
-- je ontwikkelt een korte presentatie alsof je leraar bent en legt daarin uit hoe SQLITE werkt

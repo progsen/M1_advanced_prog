@@ -46,5 +46,3 @@ Verder wil de klant een detail pagina voor elke pizza
 ## opleveren
 
 - je levert een werkend programma op
-- je maakt een presentatie van je product
-- je ontwikkelt een korte presentatie alsof je leraar bent en legt daarin uit hoe SQLITE werkt
