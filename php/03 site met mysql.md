@@ -1,4 +1,3 @@
-https://sqlite.org/cli.html
 
 ## Simpele Database
 
