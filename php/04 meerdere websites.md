@@ -15,6 +15,7 @@ dat gaan we nu uitproberen
 - Je kan (tech skills):
     - meerdere websites in 1 compose hosten
     - aparte rechten per website gebruiker maken
+    - login
 
 ## De opdracht
 
@@ -57,6 +58,7 @@ de administratie site mag eenvoudig zijn maar moet wel met een login beveiligd z
 ## extra skills:
 
 - met 2 sites heb je vaak dubbelen php/helper code
+    - kijk hoe je dit kan oplossen en de code kan delen op een nette manier
 
 # HINTS
 
